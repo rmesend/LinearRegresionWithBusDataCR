@@ -9,7 +9,11 @@ Data from Covid: https://geovision.uned.ac.cr/oges/
 
 ## Collaborators
 
-Alejandro Rodríguez
-Roger Mesén
-Erick Rojas
-Luis Rodolfo Valverde Delgado
+
+1. Alejandro Rodríguez
+
+2. Roger Mesén
+
+3. Erick Rojas
+
+4. Luis Rodolfo Valverde Delgado
